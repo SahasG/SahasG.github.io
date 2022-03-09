@@ -1,0 +1,58 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: lightblue;
+}
+
+h1.title {
+    font-family: "Times New Roman", Times, serif;
+}
+
+ul.topbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+li.topselect a{
+  display: block;
+  color: white;
+  float:left;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+dl.DL {
+  list-style-type: square;
+  text-align: left;
+  margin: auto;
+  width: 60%;
+  border: 3px solid #30D5C8;
+  background-color: #30D5C8;
+  padding: 10px;
+}
+
+dt.DTselect {
+  font-weight: bold;
+  
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+
+  border: 1px solid #777;
+
+  width: 40%;
+  height: auto;
+    
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
